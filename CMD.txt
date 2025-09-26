@@ -1,0 +1,6 @@
+pyinstaller --onefile --noconsole AVC_Tool.py
+
+-- to for create exe windoes 
+
+
+pyinstaller --onefile --noconsole --version-file version.txt AVC_Tool.py
